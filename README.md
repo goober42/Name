@@ -1,5 +1,5 @@
 # RATS
-## a game by grayson carter
+### a game by grayson carter
 
 # What the game is:
 
