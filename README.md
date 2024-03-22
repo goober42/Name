@@ -15,3 +15,6 @@
 
 # what you look like(ingame)
 ![player](https://github.com/goober42/rats/blob/main/images/player.png)
+
+# this is what most bosses are going to look like
+![fatty](https://github.com/goober42/rats/blob/main/images/fat.png)
