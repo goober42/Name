@@ -8,4 +8,4 @@
 ##### And occasionally homeless people
 
 # Class Diagram
-(UML)[https://github.com/goober42/rats/blob/main/images/ratuml.png]
+[UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
