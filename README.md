@@ -9,3 +9,6 @@
 
 # Class Diagram
 ![UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
+
+# basic rat(they get cooler i swear)
+![rat](https://github.com/goober42/rats/blob/main/images/baserat.png)
