@@ -11,7 +11,7 @@
 ![UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
 
 # Map
-[basemap](https://github.com/goober42/rats/blob/main/images/basemap.png)
+![basemap](https://github.com/goober42/rats/blob/main/images/basemap.png)
 
 # Your Apartment
 ![home](https://github.com/goober42/rats/blob/main/images/homemap.png)
