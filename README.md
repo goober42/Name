@@ -11,7 +11,6 @@
 ![UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
 
 # Map
-## idk why it is so small
 ![basemap](https://github.com/goober42/rats/blob/main/images/basemap.png)
 
 # basic rat(they get cooler i swear)
