@@ -7,6 +7,12 @@
 #### Fighting rats with mutations
 ##### And occasionally homeless people
 
+# Stuff currently in the game
+## Map
+## Basic User Movement
+## I am currently working on a gym system
+##
+
 # Class Diagram
 ![UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
 
