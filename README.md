@@ -14,19 +14,19 @@
 ##
 
 # Class Diagram
-[UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
+![UML](https://github.com/goober42/rats/blob/main/images/ratuml.png)
 
 # Map
-[basemap](https://github.com/goober42/rats/blob/main/images/basemap.png)
+![basemap](https://github.com/goober42/rats/blob/main/images/basemap.png)
 
 # Your Apartment
-[home](https://github.com/goober42/rats/blob/main/images/homemap.png)
+![home](https://github.com/goober42/rats/blob/main/images/homemap.png)
 
 # basic rat(they get cooler i swear)
-[rat](https://github.com/goober42/rats/blob/main/images/baserat.png)
+![rat](https://github.com/goober42/rats/blob/main/images/baserat.png)
 
 # what you look like(ingame)
-[player](https://github.com/goober42/rats/blob/main/images/player.png)
+![player](https://github.com/goober42/rats/blob/main/images/player.png)
 
 # this is what most bosses are going to look like
-[fatty](https://github.com/goober42/rats/blob/main/images/fat.png)
+![fatty](https://github.com/goober42/rats/blob/main/images/fat.png)
