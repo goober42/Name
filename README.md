@@ -14,19 +14,19 @@
 ##
 
 # Class Diagram
-[UML](images/ratuml.png)
+![UML](images/ratuml.png)
 
 # Map
-[basemap](images/basemap.png)
+![basemap](images/basemap.png)
 
 # Your Apartment
-[home](images/homemap.png)
+![home](images/homemap.png)
 
 # basic rat(they get cooler i swear)
-[rat](images/baserat.png)
+![rat](images/baserat.png)
 
 # what you look like(ingame)
-[player](images/player.png)
+![player](images/player.png)
 
 # this is what most bosses are going to look like
-[fatty](images/fat.png)
+![fatty](images/fat.png)
