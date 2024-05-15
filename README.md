@@ -11,16 +11,12 @@
 ## Map
 ## Basic User Movement
 ## I am currently working on a gym system
-##
+
+### There will be a turn-based combat system implemented soon(i am working on it right now)
+#### The rest of the game is graphical, but choice based now because movement around the map didn't want to work. :)
 
 # Class Diagram
 ![UML](images/ratuml.png)
-
-# Map
-![basemap](images/basemap.png)
-
-# Your Apartment
-![home](images/homemap.png)
 
 # basic rat(they get cooler i swear)
 ![rat](images/baserat.png)
