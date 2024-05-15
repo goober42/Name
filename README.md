@@ -5,15 +5,16 @@
 
 ### I aim to make this game very similar to pokemon, but instead of your average pokemon world, you are actually in new york
 #### Fighting rats with mutations
-##### And occasionally homeless people
 
 # Stuff currently in the game
-## Map
-## Basic User Movement
-## I am currently working on a gym system
+## Opening choices that determine name, game difficulty, and what player build you want(player build doesn't do anything right now)
+## Gym system to improve stats.
 
-### There will be a turn-based combat system implemented soon(i am working on it right now)
-#### The rest of the game is graphical, but choice based now because movement around the map didn't want to work. :)
+# Stuff I am going to add
+## Turn based combat for fighting rats as well as special arenas for each rat type.
+## A way to randomize the rats you fight.
+## An energy system to limit how much you do per (ingame) day.
+## A store to buy equipment with money you get from defeating rats
 
 # Class Diagram
 ![UML](images/ratuml.png)
